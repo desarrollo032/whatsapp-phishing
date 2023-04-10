@@ -1,4 +1,4 @@
-# OTP Bypass Instructions
+# Instrucciones de omisión de OTP
 Cuando la víctima ingresa sus credenciales, debe ir al sitio web original y usar esas credenciales para enviar OTP real a la víctima. Una vez que ingrese a esa OTP, dicha OTP también estará allí con usted y se le permitirá iniciar sesión en la cuenta antes que él.
 
 # whatsapp-phishing
@@ -8,7 +8,7 @@ la mejor herramienta para whatsapp-phishing con otp Bypass..
 ![wh](https://user-images.githubusercontent.com/55870659/76102702-6019da80-5f9e-11ea-9504-14b5de03786b.png)
 
 
-# RRequisitos
+# Requisitos
 1. ngrok setup
 2. Root - Must
 3. Apache Server
